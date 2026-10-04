@@ -1,8 +1,8 @@
 # Bulpex
 
-Bulpex is the portfolio platform for serious TCG collectors.
+Bulpex is the collector app for serious Pokémon TCG collectors.
 
-Track your collection, organize binders, follow card pricing, discover trending cards, and prepare for future collector-to-collector features built around ownership, visibility, and trust.
+Scan your cards, see what they're worth, organize them in digital binders and follow the market — on iOS, Android and the web.
 
 **Pull. Build. Own.**
 
@@ -12,33 +12,28 @@ Track your collection, organize binders, follow card pricing, discover trending 
 
 ---
 
-## Status
+## Download
 
-Bulpex is in active development.
-
-Official website:
-- [bulpex.com](https://bulpex.com)
-
-Preview environments:
-- [dev.bulpex.com](https://dev.bulpex.com)
-- [pre.bulpex.com](https://pre.bulpex.com)
+- **iOS** — [App Store](https://apps.apple.com/app/id6794138139)
+- **Android** — [Google Play](https://play.google.com/store/apps/details?id=com.bulpex.app)
+- **Web** — [bulpex.com](https://bulpex.com)
 
 ---
 
-## What Bulpex Is Building
+## What You Can Do With Bulpex
 
-Bulpex is focused on the collector experience around trading card games, starting with Pokemon TCG.
+- **Scan your cards** with the camera and identify them in seconds.
+- **Know what they're worth**, with market prices from Cardmarket and TCGplayer, shown in your currency.
+- **Track your collection**: condition, language, graded cards and total value.
+- **Organize digital binders** with configurable page layouts.
+- **Explore the catalog**: sets, cards, variants and artists, including Japanese and other Asian releases.
+- **Follow the market**: trending cards, the most valuable cards per set and price movements.
+- **Read the news** about the Pokémon TCG at [bulpex.com/news](https://bulpex.com/news).
+- **Share a public collector profile**, or keep it private.
 
-Core product directions:
-- Collection tracking
-- Binder organization
-- Card discovery and search
-- Real-time pricing references
-- Favorites and ownership visibility
-- Public and private collector profiles
-- Future exchange-oriented social features
+Available in 9 languages: English, Spanish, French, German, Italian, Portuguese, Japanese, Korean and Chinese.
 
-Bulpex is being designed as a long-term collector product, with web as the current platform and mobile apps as an important next stage.
+Catalog: **222,426 cards** across **866 sets**.
 
 ---
 
@@ -52,6 +47,8 @@ Bulpex is being designed as a long-term collector product, with web as the curre
 - Discord: [Bulpex Community](https://discord.gg/bulpex)
 - Reddit: [r/bulpex](https://www.reddit.com/r/bulpex)
 - LinkedIn: [Bulpex](https://www.linkedin.com/company/bulpex)
+
+Press and general inquiries: **hola@bulpex.com**
 
 ---
 
@@ -68,7 +65,7 @@ Developed by:
 This repository is reserved for:
 - public brand presence
 - public-facing product summary
-- future public release notes and changelog summaries
+- public release notes and changelog summaries
 
 This repository should not expose:
 - private implementation details
@@ -83,6 +80,8 @@ This repository should not expose:
 Bulpex and its related marks, visuals, and brand assets are part of an active product identity.
 
 This repository is public for brand presence only. It does not grant an open-source license or general reuse rights over the Bulpex name, identity, or assets. See [COPYRIGHT.md](./COPYRIGHT.md).
+
+Pokémon and Pokémon card names and images are trademarks of their respective owners (Nintendo, Creatures Inc. and GAME FREAK inc.). Bulpex is not affiliated with, endorsed or sponsored by them.
 
 ---
 
